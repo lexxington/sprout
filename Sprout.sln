@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprout", "Sprout\Sprout.csproj", "{670B6025-FE6A-4398-A051-9E5DC1BDA6E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprout.Tests", "Sprout.Tests\Sprout.Tests.csproj", "{E1EE1C78-97C0-41FE-A7DF-A08BB9947733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670B6025-FE6A-4398-A051-9E5DC1BDA6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670B6025-FE6A-4398-A051-9E5DC1BDA6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670B6025-FE6A-4398-A051-9E5DC1BDA6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670B6025-FE6A-4398-A051-9E5DC1BDA6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1EE1C78-97C0-41FE-A7DF-A08BB9947733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EE1C78-97C0-41FE-A7DF-A08BB9947733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1EE1C78-97C0-41FE-A7DF-A08BB9947733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1EE1C78-97C0-41FE-A7DF-A08BB9947733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CE107CF-EEC6-4939-9547-F77C0910F580}
+	EndGlobalSection
+EndGlobal
